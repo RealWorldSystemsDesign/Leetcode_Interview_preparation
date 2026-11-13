@@ -1,0 +1,150 @@
+Array / String	88	Merge Sorted Array	Easy
+Array / String	27	Remove Element	Easy
+Array / String	26	Remove Duplicates from Sorted Array	Easy
+Array / String	80	Remove Duplicates from Sorted Array II	Medium
+Array / String	169	Majority Element	Easy
+Array / String	189	Rotate Array	Medium
+Array / String	121	Best Time to Buy and Sell Stock	Easy
+Array / String	122	Best Time to Buy and Sell Stock II	Medium
+Array / String	55	Jump Game	Medium
+Array / String	45	Jump Game II	Medium
+Array / String	274	H-Index	Medium
+Array / String	380	Insert Delete GetRandom O(1)	Medium
+Array / String	238	Product of Array Except Self	Medium
+Array / String	134	Gas Station	Medium
+Array / String	135	Candy	Hard
+Array / String	42	Trapping Rain Water	Hard
+Array / String	13	Roman to Integer	Easy
+Array / String	12	Integer to Roman	Medium
+Array / String	58	Length of Last Word	Easy
+Array / String	14	Longest Common Prefix	Easy
+Array / String	151	Reverse Words in a String	Medium
+Array / String	6	Zigzag Conversion	Medium
+Array / String	28	Find the Index of the First Occurrence in a String	Easy
+Array / String	68	Text Justification	Hard
+Two Pointers	125	Valid Palindrome	Easy
+Two Pointers	392	Is Subsequence	Easy
+Two Pointers	167	Two Sum II - Input Array Is Sorted	Medium
+Two Pointers	11	Container With Most Water	Medium
+Two Pointers	15	3Sum	Medium
+Sliding Window	209	Minimum Size Subarray Sum	Medium
+Sliding Window	3	Longest Substring Without Repeating Characters	Medium
+Sliding Window	30	Substring with Concatenation of All Words	Hard
+Sliding Window	76	Minimum Window Substring	Hard
+Matrix	36	Valid Sudoku	Medium
+Matrix	54	Spiral Matrix	Medium
+Matrix	48	Rotate Image	Medium
+Matrix	73	Set Matrix Zeroes	Medium
+Matrix	289	Game of Life	Medium
+Hashmap	383	Ransom Note	Easy
+Hashmap	205	Isomorphic Strings	Easy
+Hashmap	290	Word Pattern	Easy
+Hashmap	242	Valid Anagram	Easy
+Hashmap	49	Group Anagrams	Medium
+Hashmap	1	Two Sum	Easy
+Hashmap	202	Happy Number	Easy
+Hashmap	219	Contains Duplicate II	Easy
+Hashmap	128	Longest Consecutive Sequence	Medium
+Intervals	228	Summary Ranges	Easy
+Intervals	56	Merge Intervals	Medium
+Intervals	57	Insert Interval	Medium
+Intervals	452	Minimum Number of Arrows to Burst Balloons	Medium
+Stack	20	Valid Parentheses	Easy
+Stack	71	Simplify Path	Medium
+Stack	155	Min Stack	Medium
+Stack	150	Evaluate Reverse Polish Notation	Medium
+Stack	224	Basic Calculator	Hard
+Linked List	141	Linked List Cycle	Easy
+Linked List	2	Add Two Numbers	Medium
+Linked List	21	Merge Two Sorted Lists	Easy
+Linked List	138	Copy List with Random Pointer	Medium
+Linked List	92	Reverse Linked List II	Medium
+Linked List	25	Reverse Nodes in k-Group	Hard
+Linked List	19	Remove Nth Node From End of List	Medium
+Linked List	82	Remove Duplicates from Sorted List II	Medium
+Linked List	61	Rotate List	Medium
+Linked List	86	Partition List	Medium
+Linked List	146	LRU Cache	Medium
+Binary Tree General	104	Maximum Depth of Binary Tree	Easy
+Binary Tree General	100	Same Tree	Easy
+Binary Tree General	226	Invert Binary Tree	Easy
+Binary Tree General	101	Symmetric Tree	Easy
+Binary Tree General	105	Construct Binary Tree from Preorder and Inorder Traversal	Medium
+Binary Tree General	106	Construct Binary Tree from Inorder and Postorder Traversal	Medium
+Binary Tree General	117	Populating Next Right Pointers in Each Node II	Medium
+Binary Tree General	114	Flatten Binary Tree to Linked List	Medium
+Binary Tree General	112	Path Sum	Easy
+Binary Tree General	129	Sum Root to Leaf Numbers	Medium
+Binary Tree General	124	Binary Tree Maximum Path Sum	Hard
+Binary Tree General	173	Binary Search Tree Iterator	Medium
+Binary Tree General	222	Count Complete Tree Nodes	Easy
+Binary Tree General	236	Lowest Common Ancestor of a Binary Tree	Medium
+Binary Tree BFS	199	Binary Tree Right Side View	Medium
+Binary Tree BFS	637	Average of Levels in Binary Tree	Easy
+Binary Tree BFS	102	Binary Tree Level Order Traversal	Medium
+Binary Tree BFS	103	Binary Tree Zigzag Level Order Traversal	Medium
+Binary Search Tree	530	Minimum Absolute Difference in BST	Easy
+Binary Search Tree	230	Kth Smallest Element in a BST	Medium
+Binary Search Tree	98	Validate Binary Search Tree	Medium
+Graph General	200	Number of Islands	Medium
+Graph General	130	Surrounded Regions	Medium
+Graph General	133	Clone Graph	Medium
+Graph General	399	Evaluate Division	Medium
+Graph General	207	Course Schedule	Medium
+Graph General	210	Course Schedule II	Medium
+Graph BFS	909	Snakes and Ladders	Medium
+Graph BFS	433	Minimum Genetic Mutation	Medium
+Graph BFS	127	Word Ladder	Hard
+Trie	208	Implement Trie (Prefix Tree)	Medium
+Trie	211	Design Add and Search Words Data Structure	Medium
+Trie	212	Word Search II	Hard
+Backtracking	17	Letter Combinations of a Phone Number	Medium
+Backtracking	77	Combinations	Medium
+Backtracking	46	Permutations	Medium
+Backtracking	39	Combination Sum	Medium
+Backtracking	52	N-Queens II	Hard
+Backtracking	22	Generate Parentheses	Medium
+Backtracking	79	Word Search	Medium
+Divide & Conquer	108	Convert Sorted Array to Binary Search Tree	Easy
+Divide & Conquer	148	Sort List	Medium
+Divide & Conquer	427	Construct Quad Tree	Medium
+Divide & Conquer	23	Merge k Sorted Lists	Hard
+Kadane's Algorithm	53	Maximum Subarray	Medium
+Kadane's Algorithm	918	Maximum Sum Circular Subarray	Medium
+Binary Search	35	Search Insert Position	Easy
+Binary Search	74	Search a 2D Matrix	Medium
+Binary Search	162	Find Peak Element	Medium
+Binary Search	33	Search in Rotated Sorted Array	Medium
+Binary Search	34	Find First and Last Position of Element in Sorted Array	Medium
+Binary Search	153	Find Minimum in Rotated Sorted Array	Medium
+Binary Search	4	Median of Two Sorted Arrays	Hard
+Heap	215	Kth Largest Element in an Array	Medium
+Heap	502	IPO	Hard
+Heap	373	Find K Pairs with Smallest Sums	Medium
+Heap	295	Find Median from Data Stream	Hard
+Bit Manipulation	67	Add Binary	Easy
+Bit Manipulation	190	Reverse Bits	Easy
+Bit Manipulation	191	Number of 1 Bits	Easy
+Bit Manipulation	136	Single Number	Easy
+Bit Manipulation	137	Single Number II	Medium
+Bit Manipulation	201	Bitwise AND of Numbers Range	Medium
+Math	9	Palindrome Number	Easy
+Math	66	Plus One	Easy
+Math	172	Factorial Trailing Zeroes	Medium
+Math	69	Sqrt(x)	Easy
+Math	50	Pow(x, n)	Medium
+Math	149	Max Points on a Line	Hard
+1D DP	70	Climbing Stairs	Easy
+1D DP	198	House Robber	Medium
+1D DP	139	Word Break	Medium
+1D DP	322	Coin Change	Medium
+1D DP	300	Longest Increasing Subsequence	Medium
+Multidimensional DP	120	Triangle	Medium
+Multidimensional DP	64	Minimum Path Sum	Medium
+Multidimensional DP	63	Unique Paths II	Medium
+Multidimensional DP	5	Longest Palindromic Substring	Medium
+Multidimensional DP	97	Interleaving String	Medium
+Multidimensional DP	72	Edit Distance	Medium
+Multidimensional DP	123	Best Time to Buy and Sell Stock III	Hard
+Multidimensional DP	188	Best Time to Buy and Sell Stock IV	Hard
+Multidimensional DP	221	Maximal Square	Medium
